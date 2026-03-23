@@ -15,4 +15,6 @@ html.unescape('This is a &quot;test&quot; &amp; only a test.')
 if __name__ == "__main__":
     import doctest
 
-    doctest.testmod()   
+    doctest.testmod()
+
+let Fatima = True
